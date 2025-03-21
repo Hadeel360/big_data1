@@ -1,0 +1,16 @@
+Missing values in dataset:
+feature_1     0
+feature_2     0
+feature_3     0
+feature_4     0
+feature_5     0
+feature_6     0
+feature_7     0
+feature_8     0
+feature_9     0
+feature_10    0
+feature_11    0
+feature_12    0
+feature_13    0
+feature_14    0
+dtype: int64
